@@ -1,0 +1,10 @@
+CREDITS
+
+https://docs.python.org/3/library/ssl.html#client-side-operation
+https://docs.python.org/3/library/socket.html#creating-sockets
+https://sethmlarson.dev/blog/experimental-python-3.10-apis-and-trust-stores
+https://stackoverflow.com/questions/68515994/how-to-parse-certificate-information-in-python
+https://pythonhosted.org/cymruwhois/api.html
+https://docs.python.org/3/library/ssl.html#ssl.SSLSocket.getpeercert
+https://www.tutorialspoint.com/python_network_programming/python_dns_look_up.htm
+https://www.bing.com/videos/search?q=python+dns+package&docid=608056091324543246&mid=CCB201FDF6578AC680E7CCB201FDF6578AC680E7&view=detail&FORM=VIRE
